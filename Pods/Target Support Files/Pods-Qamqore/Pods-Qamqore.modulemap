@@ -1,0 +1,6 @@
+framework module Pods_Qamqore {
+  umbrella header "Pods-Qamqore-umbrella.h"
+
+  export *
+  module * { export * }
+}
