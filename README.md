@@ -1,0 +1,2 @@
+# Qamqore
+SDU SE PROJECT
